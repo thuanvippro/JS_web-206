@@ -1,0 +1,36 @@
+{
+  "users": [
+    {
+      "email": "thuannhph12461@gmail.com",
+      "password": "$2a$10$jVnKR5EqrAgjujEECTLDf.110TU7kpMya8EX.pwoe44sPwT56Ux1i",
+      "firstName": "thuan",
+      "lastName": "nguyen",
+      "role": "1",
+      "id": 9
+    },
+    {
+      "email": "abc@gmail.com",
+      "password": "$2a$10$I6qF3WzNPsuWaqdwRZqFGeBjlGaIPlVdNLerrxg3O8fWrdP465JAu",
+      "firstName": "thuan",
+      "lastName": "nguyen",
+      "role": "1",
+      "id": 10
+    },
+    {
+      "email": "aaa@gmail.com",
+      "password": "$2a$10$OxHmle3kgdwoE7ts1QWFqencfjReiNYVKPDphaK4zo/L9Co.1/fJ.",
+      "firstName": "thuan",
+      "lastName": "nguyen",
+      "role": "1",
+      "id": 11
+    },
+    {
+      "email": "abvd.@gmail.com",
+      "password": "$2a$10$BhgISsP2xAJNlCi9GxM2weNQvW6Cn0tLB/GmuF/bLRf.mgWZvtYwK",
+      "firstName": "thuan",
+      "lastName": "nguyen",
+      "role": 1,
+      "id": 12
+    }
+  ]
+}

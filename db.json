@@ -1,0 +1,170 @@
+{
+  "categories": [
+    {
+      "id": "g7z15x319",
+      "name": "Thực phẩm"
+    },
+    {
+      "id": "g7z15jyys",
+      "name": "Rau củ"
+    },
+    {
+      "id": "g7z15x314",
+      "name": "Thịt tươi"
+    },
+    {
+      "id": "g7z99x319",
+      "name": "Hải Sản"
+    },
+    {
+      "name": "Món ăn",
+      "id": "gty15x319"
+    }
+  ],
+  "invoice": [
+    {
+      "id": "sjaaqqok4",
+      "name": "thuan nguyen",
+      "phone": "0964998006",
+      "email": "aa@gmail.com",
+      "address": "thai binh",
+      "totalPrice": "71",
+      "note": "ghrtjyuki",
+      "payment": "1",
+      "cartPro": {
+        "yptyhrzoq": {
+          "name": "chanh leo",
+          "price": "17",
+          "quantity": "5",
+          "description": "chanh leo thai binh",
+          "categoryId": "g7z15x319",
+          "image": "https://firebasestorage.googleapis.com/v0/b/javascrip-2f42e.appspot.com/o/image%2Ffeature-3.jpg?alt=media&token=20fa5ab6-d9c4-4f63-bd0d-74246982c29b",
+          "id": "yptyhrzoq"
+        },
+        "c1mapsp45": {
+          "name": "nho",
+          "price": "54",
+          "quantity": "20",
+          "description": "nho quan ninh binh",
+          "categoryId": "g7z15x319",
+          "image": "https://firebasestorage.googleapis.com/v0/b/javascrip-2f42e.appspot.com/o/image%2Ffeature-5.jpg?alt=media&token=ddb7908b-36e0-437c-953a-fb21d773fbde",
+          "id": "c1mapsp45",
+          "inCart": null
+        }
+      }
+    },
+    {
+      "id": "qjbpqq2ir",
+      "name": "thuan nguyen",
+      "phone": "0964998006",
+      "email": "aa@gmail.com",
+      "address": "thai binh",
+      "totalPrice": "9",
+      "note": "gẻ",
+      "payment": "1",
+      "cartPro": {
+        "votwk8tt4": {
+          "id": "votwk8tt4",
+          "name": "rau cu qua",
+          "price": "9",
+          "quantity": "38",
+          "description": "rau cu qua tuoi mang len tu que",
+          "categoryId": "g7z15jyys",
+          "image": "https://firebasestorage.googleapis.com/v0/b/javascrip-2f42e.appspot.com/o/image%2Fpd-2.jpg?alt=media&token=0c878684-d868-470c-a836-aa19e2f9b43d"
+        }
+      }
+    }
+  ],
+  "products": [
+    {
+      "name": "chanh leo",
+      "price": "17",
+      "quantity": "5",
+      "description": "chanh leo thai binh",
+      "categoryId": "g7z15x319",
+      "image": "https://firebasestorage.googleapis.com/v0/b/javascrip-2f42e.appspot.com/o/image%2Ffeature-3.jpg?alt=media&token=20fa5ab6-d9c4-4f63-bd0d-74246982c29b",
+      "id": "yptyhrzoq"
+    },
+    {
+      "name": "nho",
+      "price": "54",
+      "quantity": "20",
+      "description": "nho quan ninh binh",
+      "categoryId": "g7z15x319",
+      "image": "https://firebasestorage.googleapis.com/v0/b/javascrip-2f42e.appspot.com/o/image%2Ffeature-5.jpg?alt=media&token=ddb7908b-36e0-437c-953a-fb21d773fbde",
+      "id": "c1mapsp45"
+    },
+    {
+      "name": "Dua hau",
+      "price": "6",
+      "quantity": "5",
+      "description": "dua hau ngon",
+      "categoryId": "g7z15x319",
+      "image": "https://firebasestorage.googleapis.com/v0/b/javascrip-2f42e.appspot.com/o/image%2Fproduct-7.jpg?alt=media&token=2fda26c7-7147-4b5c-ad00-344e9907c62e",
+      "id": "h8ig61yom"
+    },
+    {
+      "name": "thit",
+      "price": "75",
+      "quantity": "45",
+      "description": "thit bo tuoi",
+      "categoryId": "g7z15x314",
+      "image": "https://firebasestorage.googleapis.com/v0/b/javascrip-2f42e.appspot.com/o/image%2Ffeature-1.jpg?alt=media&token=59f1e632-fbe6-4b27-8d08-42511d3c6229",
+      "id": "6ojev0g56"
+    },
+    {
+      "id": "g19f65hc8",
+      "name": "chuoi tay to",
+      "price": "30",
+      "quantity": "50",
+      "description": "o o la la chuoi ca nai",
+      "categoryId": "g7z15x319",
+      "image": "https://firebasestorage.googleapis.com/v0/b/javascrip-2f42e.appspot.com/o/image%2Ffeature-2.jpg?alt=media&token=8c47650f-680d-4bd0-99be-7653ffd71708"
+    },
+    {
+      "id": "6a9wxtnlx",
+      "name": "Hamberger",
+      "price": "35",
+      "quantity": "77",
+      "description": "hamberger bo bit tet",
+      "categoryId": "gty15x319",
+      "image": "https://firebasestorage.googleapis.com/v0/b/javascrip-2f42e.appspot.com/o/image%2Ffeature-6.jpg?alt=media&token=8839289b-50d7-4bcd-8bd4-1b049024f5a5"
+    },
+    {
+      "id": "hhd141g1h",
+      "name": "Dui ga chien kfc",
+      "price": "30",
+      "quantity": "10",
+      "description": "dui ga chien gion",
+      "categoryId": "gty15x319",
+      "image": "https://firebasestorage.googleapis.com/v0/b/javascrip-2f42e.appspot.com/o/image%2Fproduct-10.jpg?alt=media&token=5bcdbf88-6e5e-414f-b22f-0a66706ed3ad"
+    },
+    {
+      "id": "votwk8tt4",
+      "name": "rau cu qua",
+      "price": "9",
+      "quantity": "38",
+      "description": "rau cu qua tuoi mang len tu que",
+      "categoryId": "g7z15jyys",
+      "image": "https://firebasestorage.googleapis.com/v0/b/javascrip-2f42e.appspot.com/o/image%2Fpd-2.jpg?alt=media&token=0c878684-d868-470c-a836-aa19e2f9b43d"
+    },
+    {
+      "id": "ptugyxjif",
+      "name": "danh",
+      "price": "39",
+      "quantity": "23",
+      "description": "danh dsgerh",
+      "categoryId": "g7z15jyys",
+      "image": "https://firebasestorage.googleapis.com/v0/b/javascrip-2f42e.appspot.com/o/image%2Fpd-3.jpg?alt=media&token=bc60da06-3147-4fa5-9332-73c8238ec59d"
+    },
+    {
+      "name": "ẻh",
+      "price": "3",
+      "quantity": "3",
+      "description": "t45h",
+      "categoryId": "g7z15jyys",
+      "image": "https://firebasestorage.googleapis.com/v0/b/javascrip-2f42e.appspot.com/o/image%2F153176294_710722686260142_1269193164383948836_n.jpg?alt=media&token=56a727f1-e57c-4323-81b0-d48b2482de5e",
+      "id": "62yos34vm"
+    }
+  ]
+}
