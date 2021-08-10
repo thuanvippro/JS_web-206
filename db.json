@@ -1,0 +1,265 @@
+{
+  "products": [
+    {
+      "name": "sen",
+      "categoryId": "13",
+      "image": "https://firebasestorage.googleapis.com/v0/b/reactjs-902c1.appspot.com/o/image%2Fw12.jpg?alt=media&token=0a2b700d-c46e-4355-a3a6-a5cbbc217902",
+      "description": "fdsfdsfdsf",
+      "quantity": "99",
+      "price": "23",
+      "id": "Kif4V5X"
+    },
+    {
+      "name": "sennnn",
+      "categoryId": "21",
+      "image": "https://firebasestorage.googleapis.com/v0/b/reactjs-902c1.appspot.com/o/image%2Fw11.jpg?alt=media&token=b7d86643-e668-4521-89b5-d5dd4c52d27c",
+      "description": "dep",
+      "quantity": "99",
+      "price": "34",
+      "id": "uEVRhtB"
+    },
+    {
+      "name": "sexrdtfyguh",
+      "categoryId": "21",
+      "image": "https://firebasestorage.googleapis.com/v0/b/reactjs-902c1.appspot.com/o/image%2Fw10.jpg?alt=media&token=7a08fe82-e1af-4db1-9af4-a493d721d4af",
+      "description": "szdxfgvh",
+      "quantity": "1",
+      "price": "56",
+      "id": "sM0kGPN"
+    },
+    {
+      "name": "anh ddep trai",
+      "categoryId": "21",
+      "image": "https://firebasestorage.googleapis.com/v0/b/reactjs-902c1.appspot.com/o/image%2Fw9.jpg?alt=media&token=e8229478-ebfc-4700-a227-ea60334b95fd",
+      "description": "deep trai",
+      "quantity": "1",
+      "price": "78",
+      "id": "cSrpGQU"
+    },
+    {
+      "name": "manh",
+      "categoryId": "13",
+      "image": "https://firebasestorage.googleapis.com/v0/b/reactjs-902c1.appspot.com/o/image%2Fw8.jpg?alt=media&token=e2b62087-5d39-4df2-a467-9e1ba64fe4ff",
+      "description": "sedrtyui ghjkm",
+      "quantity": "1",
+      "price": "90",
+      "id": "tP7asFX"
+    },
+    {
+      "name": "manh",
+      "categoryId": "13",
+      "image": "https://firebasestorage.googleapis.com/v0/b/reactjs-902c1.appspot.com/o/image%2Fw8.jpg?alt=media&token=e2b62087-5d39-4df2-a467-9e1ba64fe4ff",
+      "description": "sedrtyui ghjkm",
+      "quantity": "1",
+      "price": "12",
+      "id": "n1_6SfP"
+    },
+    {
+      "name": "ip13",
+      "categoryId": "13",
+      "image": "https://firebasestorage.googleapis.com/v0/b/reactjs-902c1.appspot.com/o/image%2Fw7.jpg?alt=media&token=9777b0bb-4607-45b1-a30e-acff9d37b3b8",
+      "description": "asdfghy",
+      "quantity": "1",
+      "price": "23",
+      "id": "eDTzmBK"
+    },
+    {
+      "name": "rew",
+      "categoryId": "13",
+      "image": "https://firebasestorage.googleapis.com/v0/b/reactjs-902c1.appspot.com/o/image%2Fw6.jpg?alt=media&token=cd72dcae-3b33-45b1-91f4-3375a978f4e3",
+      "description": "5688",
+      "quantity": "1",
+      "price": "22",
+      "id": "-HNCuKZ"
+    },
+    {
+      "name": "thtththt",
+      "categoryId": "13",
+      "image": "https://firebasestorage.googleapis.com/v0/b/reactjs-902c1.appspot.com/o/image%2Fw5.jpg?alt=media&token=77cd709c-a752-4dca-9911-1213f996717d",
+      "description": "thuoi roi",
+      "quantity": "1",
+      "price": "32",
+      "id": "hrQx6Qa"
+    },
+    {
+      "name": "suy",
+      "categoryId": "21",
+      "image": "https://firebasestorage.googleapis.com/v0/b/reactjs-902c1.appspot.com/o/image%2Fw12.jpg?alt=media&token=fa16c637-26ce-4922-b672-074b9d0916f7",
+      "description": "dẹp qua di a",
+      "quantity": "1",
+      "price": "43",
+      "id": "1"
+    },
+    {
+      "name": "sugar baby",
+      "categoryId": "13",
+      "image": "https://firebasestorage.googleapis.com/v0/b/reactjs-902c1.appspot.com/o/image%2Fw5.jpg?alt=media&token=4a4be7e1-1345-4b9d-a41b-ec89dcae5ee4",
+      "description": "con lợn quay",
+      "quantity": "1",
+      "price": "56",
+      "id": "p-SioDY"
+    },
+    {
+      "name": "bigdady",
+      "categoryId": "26",
+      "image": "https://firebasestorage.googleapis.com/v0/b/reactjs-902c1.appspot.com/o/image%2Fw3.jpg?alt=media&token=5234f3b7-6714-41e6-b42f-3b05cec6e745",
+      "description": "tìm người yêu",
+      "quantity": "1",
+      "price": "55",
+      "id": "oPKU0Ya"
+    },
+    {
+      "name": "const",
+      "categoryId": "26",
+      "image": "https://firebasestorage.googleapis.com/v0/b/reactjs-902c1.appspot.com/o/image%2Fw2.jpg?alt=media&token=ebd4422f-8231-4b98-8b26-0b39752a75bf",
+      "description": "lây đi en ân ta la mân",
+      "quantity": "1",
+      "price": "77",
+      "id": "69Uo_Ta"
+    },
+    {
+      "name": "rolex",
+      "categoryId": "26",
+      "image": "https://firebasestorage.googleapis.com/v0/b/reactjs-902c1.appspot.com/o/image%2Fw1.jpg?alt=media&token=81cb5962-65b8-456a-ba97-453e8d1f1eff",
+      "description": "oẳng oẳng oẳng oẳng oẳng ",
+      "quantity": "1",
+      "price": "21",
+      "id": "Crm-gg0"
+    },
+    {
+      "name": "táo độc",
+      "categoryId": "13",
+      "image": "https://firebasestorage.googleapis.com/v0/b/reactjs-902c1.appspot.com/o/image%2Fw6.jpg?alt=media&token=9154797e-f05d-4da3-b310-9bf28b2ba998",
+      "description": "oăng oang oẳng  oẳng  oẳng ",
+      "quantity": "1",
+      "price": "11",
+      "id": "vrPhbZW"
+    },
+    {
+      "name": "ố ố la la",
+      "categoryId": "21",
+      "image": "https://firebasestorage.googleapis.com/v0/b/reactjs-902c1.appspot.com/o/image%2Fw10.jpg?alt=media&token=08342a46-744e-4df5-bda1-54dd9adf8faf",
+      "description": "um ba la um ba la um ba la",
+      "quantity": "1",
+      "price": "22",
+      "id": "VYiHkj2"
+    },
+    {
+      "name": "ba by",
+      "categoryId": "21",
+      "image": "https://firebasestorage.googleapis.com/v0/b/reactjs-902c1.appspot.com/o/image%2Fw10.jpg?alt=media&token=2f5f68e0-f726-4843-bbe3-1e66a4f9b611",
+      "description": "la la la",
+      "quantity": "1",
+      "price": "33",
+      "id": "Lop_4um"
+    },
+    {
+      "name": "aa",
+      "categoryId": "21",
+      "image": "https://firebasestorage.googleapis.com/v0/b/reactjs-902c1.appspot.com/o/image%2Fw11.jpg?alt=media&token=a40345a2-ff61-4ba4-91e5-5c4eed95de13",
+      "description": "qua dep trai di a",
+      "quantity": "1",
+      "price": "66",
+      "id": "tmaKzJW"
+    },
+    {
+      "name": "a",
+      "categoryId": "13",
+      "image": "https://firebasestorage.googleapis.com/v0/b/reactjs-902c1.appspot.com/o/image%2Fw11.jpg?alt=media&token=e7ba4614-8a33-49a5-82b2-55ca53df9b87",
+      "description": "asdf",
+      "quantity": "1",
+      "price": "77",
+      "id": "CEGbSXN"
+    },
+    {
+      "name": " a a",
+      "categoryId": "21",
+      "image": "https://firebasestorage.googleapis.com/v0/b/reactjs-902c1.appspot.com/o/image%2Fw11.jpg?alt=media&token=670c56ba-cd40-4b78-929e-cf78002f8137",
+      "description": "đẹp đẹp đẹp đẹp đẹp",
+      "quantity": "1",
+      "price": "22",
+      "id": "FoEGw-1"
+    },
+    {
+      "name": "adida",
+      "categoryId": "21",
+      "image": "https://firebasestorage.googleapis.com/v0/b/reactjs-902c1.appspot.com/o/image%2Fw11.jpg?alt=media&token=e6690389-664d-4fcc-ae83-614e8cbe7fa7",
+      "description": "da đa ad ada da d ad a da d a",
+      "quantity": "99",
+      "price": "34",
+      "id": "fl28vcI"
+    },
+    {
+      "name": "sdf",
+      "categoryId": "26",
+      "image": "https://firebasestorage.googleapis.com/v0/b/reactjs-902c1.appspot.com/o/image%2F153176294_710722686260142_1269193164383948836_n.jpg?alt=media&token=d6bb62c8-9a4d-4c44-9a61-052a978ae541",
+      "description": "trg",
+      "quantity": "3",
+      "price": "200",
+      "id": "deVakXu"
+    }
+  ],
+  "category": [
+    {
+      "name": "kinh",
+      "image": "https://firebasestorage.googleapis.com/v0/b/reactjs-902c1.appspot.com/o/image%2F10.jpg?alt=media&token=fa5f6710-7dac-417f-8c82-acff1e88a7e9",
+      "description": "thai",
+      "id": 13
+    },
+    {
+      "name": "giay",
+      "image": "https://firebasestorage.googleapis.com/v0/b/reactjs-902c1.appspot.com/o/image%2F4.jpg?alt=media&token=2315407e-8a94-41e8-a496-63e745f5bbcc",
+      "description": "tuong tac",
+      "id": 21
+    },
+    {
+      "name": "dong ho",
+      "image": "https://firebasestorage.googleapis.com/v0/b/reactjs-902c1.appspot.com/o/image%2Fw4.jpg?alt=media&token=d560503b-57d6-4164-92cf-a24dbdc55641",
+      "description": "kinh",
+      "id": 26
+    }
+  ],
+  "user": [
+    {
+      "name": "thuan",
+      "email": "a@gamil.com",
+      "password": "123456",
+      "qtv": false,
+      "id": 2
+    },
+    {
+      "name": "thuannn",
+      "email": "nguyenthuanxinhtrai2001@gmail.com",
+      "password": "12347678",
+      "qtv": "true",
+      "id": 3
+    }
+  ],
+  "cart": [],
+  "order": [
+    {
+      "total": "46",
+      "name": "dong ho",
+      "address": "thai binh",
+      "id": 1
+    },
+    {
+      "total": "46",
+      "name": "dong ho",
+      "address": "thai binh",
+      "id": 2
+    },
+    {
+      "total": "124",
+      "name": "thuannn",
+      "address": "thai binh",
+      "id": 4
+    },
+    {
+      "total": "124",
+      "name": "thuannn",
+      "address": "thai binh",
+      "id": 5
+    }
+  ]
+}
